@@ -15,19 +15,19 @@ const rc_data: DataType[] = [
    {
       id: 1,
       img: recentPost1,
-      date: "JANUARY 01,2024",
+      date: "JANUARY 01,2025",
       title: "Bitcoin Takes on the Fed: Is a Historic Rally on the Horizon?",
    },
    {
       id: 2,
       img: recentPost2,
-      date: "FEBRUARY 02,2024",
+      date: "FEBRUARY 02,2025",
       title: "Countdown to ‘most anticipated event in history’ is underway",
    },
    {
       id: 3,
       img: recentPost3,
-      date: "MARCH 03,2024",
+      date: "MARCH 03,2025",
       title: "Eye-opening guide to product review scraping in 2023",
    },
 ]

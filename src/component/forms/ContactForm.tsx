@@ -45,7 +45,6 @@ const ContactForm = () => {
                notify();
                reset();
                console.log(result.text);
-               console.log("msg send");
             }, (error) => {
                console.log(error.text);
             });

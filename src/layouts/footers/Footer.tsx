@@ -68,7 +68,6 @@ const Footer = () => {
                            <div className="footer-social">
                               <ul>
                                  <li><Link href="#"><i className="fab fa-facebook-f"></i></Link></li>
-                                 <li><Link href="#"><i className="fab fa-twitter"></i></Link></li>
                                  <li><Link href="#"><i className="fab fa-instagram"></i></Link></li>
                                  <li><Link href="#"><i className="fab fa-linkedin"></i></Link></li>
                                  <li><Link href="#"><i className="fab fa-youtube"></i></Link></li>
@@ -83,7 +82,7 @@ const Footer = () => {
                   <div className="row">
                      <div className="col-lg-12">
                         <div className="copyright-text">
-                           <p>Copyright © 2024 Crypto. All rights reserved.</p>
+                           <p>Copyright © 2025 Crypto. All rights reserved.</p>
                         </div>
                      </div>
                   </div>

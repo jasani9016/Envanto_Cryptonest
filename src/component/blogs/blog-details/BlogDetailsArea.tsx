@@ -29,7 +29,7 @@ const content_data: ContentData = {
    desc_4: (<>So it seems that JP Morgan would rather change their mind about Bitcoin than stay on the side of the fools. It’s the same with Goldman Sachs. And many more will follow in the future.This means that sale, transfer, and conversion of cryptocurrency coins may be held to the same standards as other securities and stocks, which the SEC oversees. This means that coin offerings must now be registered with the SEC, or else they could violate federal regulations.</>),
    desc_5: (<>We haven’t yet gotten to the point where Warren Buffett would have dubbed Bitcoin. Nevertheless, we are at the beginning of a journey of a thousand steps, to paraphrase Lao Tzu.Your account will be created once you have provided this information. You will be able to buy an array of coins and tokens using your debit or credit card, and your crypto will be sent to the platform’s custodial wallet, which was automatically created when you set up your account.</>),
    desc_6: (<>Bitcoin, the mother of all cryptocurrencies, has undergone a significant change in its fee structure due to the emergence of ordinals. In recent years, the “digital gold” has primarily been used as a store of value and an alternative asset class, offering portfolio diversification, protection against inflation, and the potential for long-term capital growth. Despite initiatives in countries like El Salvador, its use as a means of payment has somewhat taken a backseat. This has resulted in a stagnation of transaction fees, which at the beginning of the year were at similar levels to 2017.</>),
-   social_icon: ["fab fa-facebook-f", "fab fa-linkedin-in", "fab fa-twitter", "fab fa-instagram",]
+   social_icon: ["fab fa-facebook-f", "fab fa-linkedin-in", "fab fa-instagram",]
 }
 const { title_1, desc_1, desc_2, desc_3, desc_4, desc_5, social_icon, desc_6 } = content_data;
 
@@ -51,7 +51,7 @@ const BlogDetailsArea = ({ single_blog }: any) => {
                                     {single_blog?.author_name ? single_blog.author_name : "Admin"}
                                  </Link>
                               </li>
-                              <li><i className="far fa-clock"></i>{single_blog?.date ? single_blog.date : "12.08.2024"}</li>
+                              <li><i className="far fa-clock"></i>{single_blog?.date ? single_blog.date : "12.08.2025"}</li>
                               <li><Link href="/blog-details"><i className="far fa-comment"></i>{single_blog?.comment ? single_blog.comment : "07"}</Link></li>
                               <li><i className="far fa-eye"></i>{single_blog?.views ? single_blog.views : "200Viewers"}</li>
                            </ul>

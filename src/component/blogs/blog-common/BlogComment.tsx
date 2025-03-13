@@ -19,7 +19,7 @@ const BlogComment = () => {
                      <div className="comments-text">
                         <div className="avatar-name">
                            <h6 className="name">RD King <Link href="#" className="reply-btn">Reply</Link></h6>
-                           <span className="date">August 01, 2024</span>
+                           <span className="date">August 01, 2025</span>
                         </div>
                         <p>The platform itself was incredibly user-friendly, making it easy for me to participate in the ICO. The intuitive interface guided me through the token purchase process seamlessly.</p>
                      </div>
@@ -34,7 +34,7 @@ const BlogComment = () => {
                            <div className="comments-text">
                               <div className="avatar-name">
                                  <h6 className="name">Angle Doen <Link href="#" className="reply-btn">Reply</Link></h6>
-                                 <span className="date">August 02, 2024</span>
+                                 <span className="date">August 02, 2025</span>
                               </div>
                               <p>What stood out to me the most was the exceptional customer support. The team behind the platform was responsive and
                                  helpful, promptly addressing my inquiries and providing.</p>
